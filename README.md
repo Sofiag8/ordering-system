@@ -44,4 +44,3 @@ The order summary window contains two buttons:
 
 The repository contains a complete NetBeans project with the implemented Java code. The project includes its own `main` method to test the system's operation.
 
-Feel free to explore the code, run the project, and make improvements as needed. Happy coding!
